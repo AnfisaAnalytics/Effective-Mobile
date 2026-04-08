@@ -26,7 +26,7 @@
 
 ---
 
-С уважением,
-Ганнова Анфиса
-[Telegram](https://t.me/anfisso)
+С уважением,  
+Ганнова Анфиса  
+[Telegram](https://t.me/anfisso)  
 [Резюме и портфолио](https://drive.google.com/file/d/1oiM5lVS3rx_EFOnzOAzDMr9QPhm_k3cY/view?usp=sharing)

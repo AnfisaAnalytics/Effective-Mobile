@@ -1,11 +1,9 @@
 # Тестовое задание — Аналитик данных
-**Компания:** Effective-Mobile
+**Компания:** Effective Mobile
 
 **Кандидат:** Ганнова Анфиса - аналитик данных
 
-Здесь представлены мои решения тестового задания для Effective-Mobile.
-
-[Резюме и портфолио](https://drive.google.com/file/d/1oiM5lVS3rx_EFOnzOAzDMr9QPhm_k3cY/view?usp=sharing)
+Здесь представлены мои решения тестового задания для Effective Mobile.
 
 ---
 
@@ -28,3 +26,7 @@
 
 ---
 
+С уважением,
+Ганнова Анфиса
+[Telegram](https://t.me/anfisso)
+[Резюме и портфолио](https://drive.google.com/file/d/1oiM5lVS3rx_EFOnzOAzDMr9QPhm_k3cY/view?usp=sharing)

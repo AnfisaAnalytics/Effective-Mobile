@@ -17,7 +17,7 @@
 
 [Блок 4: Статистика и A/B-тесты](https://github.com/AnfisaAnalytics/Effective-Mobile/blob/46c3c9516d3b32170c25599b32df5af818c53fb6/4.%20%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B8%20A%3AB-%D1%82%D0%B5%D1%81%D1%82%D1%8B.ipynb)
 
-[Блок 5: ML Base](https://github.com/AnfisaAnalytics/Effective-Mobile/blob/46c3c9516d3b32170c25599b32df5af818c53fb6/5.%20ML.ipynb)
+[Блок 5: ML Base](https://github.com/AnfisaAnalytics/Effective-Mobile/blob/86b2dd672b3362849e072ecbd1ce53a068ac8aca/5.%20ML.ipynb)
 
 ---
 

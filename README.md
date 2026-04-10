@@ -13,7 +13,7 @@
 
 [Блок 2: Python](https://github.com/AnfisaAnalytics/Effective-Mobile/blob/46c3c9516d3b32170c25599b32df5af818c53fb6/2.%20Python.ipynb)
 
-[Блок 3: SQL](https://github.com/AnfisaAnalytics/Effective-Mobile/blob/46c3c9516d3b32170c25599b32df5af818c53fb6/3.%20SQL.ipynb)
+[Блок 3: SQL](https://github.com/AnfisaAnalytics/Effective-Mobile/blob/74b962b01ca7089a0f7f1f35bcd9875991156a1d/3.%20SQL.ipynb)
 
 [Блок 4: Статистика и A/B-тесты](https://github.com/AnfisaAnalytics/Effective-Mobile/blob/46c3c9516d3b32170c25599b32df5af818c53fb6/4.%20%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B8%20A%3AB-%D1%82%D0%B5%D1%81%D1%82%D1%8B.ipynb)
 
